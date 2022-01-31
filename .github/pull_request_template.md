@@ -1,6 +1,6 @@
 # Template pull request
-ecrire votre pull_request
-##
-branche concernée
-##
-pourquoi vous voulez pull notre projet
+Your pull request
+## Concerned branch
+Concerned branch
+## Why
+Why you want to pull our project
